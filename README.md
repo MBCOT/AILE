@@ -1,4 +1,4 @@
-# AILE <img src="logo_green.png" width="350" alt="Artificial Intelligence Living Entity" align="right">
+# AILE <img src="logo_green.png" width="350" title="Artificial Intelligence Living Entity" alt="Artificial Intelligence Living Entity" align="right">
 **Artificial Intelligence Living Entity**
 
 <br/><br/>
