@@ -1,12 +1,7 @@
 # AILE <img src="logo_green.png" width="350" alt="Artificial Intelligence Living Entity" align="right">
-Artificial Intelligence Living Entity
+**Artificial Intelligence Living Entity**
 
-
-
-
-
-
-
+<br/><br/>
 
 **Abstract:**
 
